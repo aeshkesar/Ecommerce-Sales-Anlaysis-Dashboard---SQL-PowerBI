@@ -1,4 +1,4 @@
-# 🚴 Adventure Works Sales Analytics Dashboard | Power BI
+# 🚴 Ecommerce Sales Analytics Dashboard | SQL, Power BI
 
 ## 📌 Project Overview
 
