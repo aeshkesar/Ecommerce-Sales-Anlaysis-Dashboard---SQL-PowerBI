@@ -1,4 +1,4 @@
-# 🚴 Ecommerce Sales Analytics Dashboard | SQL, Power BI
+# 🚴 Ecommerce Sales Analytics Dashboard | Power BI
 
 ## 📌 Project Overview
 
